@@ -36,7 +36,7 @@ const Navbar = () => {
       <ResumeButton href="https://linkedin.com/in/chaithanyainaganti" target="_blank" rel="noopener noreferrer">
         Linkedin
       </ResumeButton>
-      <ResumeButton href="https://drive.google.com/file/d/1TPjVWyv3Xvw0mXFVEaY4FwO4YyBUDfBW/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <ResumeButton href="https://drive.google.com/file/d/1ayo1IUzsskexHtM4_kJrus5g6SU_W5-4/view?usp=sharing" target="_blank" rel="noopener noreferrer">
         View Resume
       </ResumeButton>
       </div>
