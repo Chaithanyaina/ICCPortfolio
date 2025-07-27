@@ -8,21 +8,21 @@ const projectData = [
   {
     title: 'FinGenius: Smart Finance Tracker',
     description: 'Built a real-time finance dashboard using the MERN stack with interactive charts and Tailwind CSS. Integrated Google Gemini API to provide users with personalized AI-driven financial insights. Automated CI/CD workflows using GitHub Actions and Docker, and secured backend with JWT authentication.',
-    image: 'https://placehold.co/400x200/0a0a1a/00f7ff?text=Project+Alpha', // <-- UPDATED URL
+    image: '/Screenshot 2025-07-27 194956.png', // <-- UPDATED URL
     github: 'https://github.com/Chaithanyaina/FinGenius',
     live: 'https://fin-genius-topaz.vercel.app',
   },
   {
     title: 'GEMINI AI-Powered Job Portal',
     description: 'Developed a full-featured job portal using the PERN stack with dual roles for job seekers and employers. Integrated an AI Resume Analyzer with Google Gemini API, improving application relevance and recruiter efficiency. Supported over 1,000 concurrent API requests and scaled storage using Cloudinary.',
-    image: 'https://placehold.co/400x200/0a0a1a/00f7ff?text=Project+Beta', // <-- UPDATED URL
+    image: '/Screenshot 2025-07-27 195520.png', // <-- UPDATED URL
     github: 'https://github.com/Chaithanyaina/TheNewJobPortal',
     live: 'https://the-new-job-portal.vercel.app',
   },
    {
     title: 'Smart Traffic Surveillance System',
     description: 'Engineered a federated learning-based surveillance system using YOLOv8 and Flask for privacy-preserving vehicle detection. Trained models across multiple nodes with Differential Privacy and achieved 95.8% mAP@50. Enabled real-time, high-resolution inference for dense traffic monitoring.',
-    image: 'https://placehold.co/400x200/0a0a1a/00f7ff?text=Project+Gamma', // <-- UPDATED URL
+    image: '/Screenshot 2025-07-27 194938.png', // <-- UPDATED URL
     github: 'https://github.com/Chaithanyaina/traffic-surveillance',
     live: 'github.com/Chaithanyaina',
   },
